@@ -3,7 +3,7 @@
 ## Program to check the health of a set of HTTP endpoints.
 
 1. Read an input argument to a file path with a list of HTTP endpoints in YAML format.
-2. Test the health of the endpoints every 15 seconds
+2. Test the health of the endpoints every 15 seconds.
 3. Keep track of the availability percentage of the HTTP domain names being monitored by the program.
 4. Log the cumulative availability percentage for each domain to the console after the completion of each 15-seconds test cycle.
 
