@@ -20,7 +20,7 @@
    
 2. Inside the project folder, open the terminal to install the required Python packages using the following commands:
 
-    ** pip install pyyaml requests **
+    `pip install pyyaml requests`
 
 ## Usage - Run the project on IDLE
 
