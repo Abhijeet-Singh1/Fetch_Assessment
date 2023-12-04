@@ -16,7 +16,7 @@
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Abhijeet-Singh1/Fetch_Assessment.git
    
 
 2. Inside the project folder, open the terminal to install the required Python packages using the following commands:
