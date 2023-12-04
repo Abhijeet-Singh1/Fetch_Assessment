@@ -24,7 +24,7 @@
 
 ## Usage - Run the project on IDLE
 
-1. Inside the project folder, open the terminal again and write the following command:
+1. Inside the project folder, open the terminal and write the following command:
 
    `python -m idlelib.idle`
   
