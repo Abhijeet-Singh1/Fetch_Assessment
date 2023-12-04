@@ -5,7 +5,7 @@
 1. Read an input argument to a file path with a list of HTTP endpoints in YAML format.
 2. Test the health of the endpoints every 15 seconds
 3. Keep track of the availability percentage of the HTTP domain names being monitored by the program.
-4. Log the cumulative availability percentage for each domain to the console after the completion of each 15-second test cycle.
+4. Log the cumulative availability percentage for each domain to the console after the completion of each 15-seconds test cycle.
 
 ## Prerequisites
 
@@ -18,11 +18,9 @@
 
     git clone https://github.com/Abhijeet-Singh1/Fetch_Assessment.git
    
-
 2. Inside the project folder, open the terminal to install the required Python packages using the following commands:
 
     pip install pyyaml requests
-
 
 ## Usage - Run the project on IDLE
 
@@ -30,7 +28,7 @@
 
    python -m idlelib.idle
   
-  This will open IDLE.
+   This will open IDLE.
 
 2. Open the required file.
 
