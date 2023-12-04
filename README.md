@@ -16,7 +16,7 @@
 
 1. Clone the repository:
 
-    git clone https://github.com/Abhijeet-Singh1/Fetch_Assessment.git
+    `git clone https://github.com/Abhijeet-Singh1/Fetch_Assessment.git`
    
 2. Inside the project folder, open the terminal to install the required Python packages using the following commands:
 
@@ -26,7 +26,7 @@
 
 1. Inside the project folder, open the terminal again and write the following command:
 
-   python -m idlelib.idle
+   `python -m idlelib.idle`
   
    This will open IDLE.
 
