@@ -1,4 +1,6 @@
-# Program to check the health of a set of HTTP endpoints.
+#Fetch Assessment
+
+## Program to check the health of a set of HTTP endpoints.
 
 1. Read an input argument to a file path with a list of HTTP endpoints in YAML format.
 2. Test the health of the endpoints every 15 seconds
